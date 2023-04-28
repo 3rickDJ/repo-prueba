@@ -11,3 +11,8 @@
 Agregar cambio
 
 Nuevo texto local
+
+Otro cambio
+Cambioioo
+
+OTRO Cambio que provoca un conflicto
