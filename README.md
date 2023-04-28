@@ -14,4 +14,4 @@ Agregar cambio
 Otro cambio
 Cambioioo
 
-Cambio que provoca un conflicto
+OTRO Cambio que provoca un conflicto
