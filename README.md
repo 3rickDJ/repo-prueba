@@ -10,6 +10,4 @@
 
 Agregar cambio
 
-
-Otro cambio
-Cambioioo
+Nuevo texto local
